@@ -1,0 +1,15 @@
+{
+  "name": "@sri352/tiny",
+  "version": "2.0.0",
+  "description": "Test the upgrade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sriram",
+  "license": "ISC",
+  "dependencies": {
+    "@sri352/tiny": "^2.0.0"
+  }
+}
