@@ -1,6 +1,6 @@
 {
   "name": "@sri352/tiny",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Test the upgrade",
   "main": "index.js",
   "scripts": {
